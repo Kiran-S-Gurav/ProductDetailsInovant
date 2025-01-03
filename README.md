@@ -1,1 +1,2 @@
-# ProductDetailsInovant
+# ProductDetails
+Inovant Solutions Task
